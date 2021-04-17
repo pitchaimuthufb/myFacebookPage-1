@@ -11,7 +11,7 @@
     <br />
     <input class="details" type="password" placeholder=" New password" style="width: 377px;" />
 
-    <div class="dob">Date of Birth</div>
+    <div class="dob">Date of Birth Hello this is updated profile.</div>
     <a href title="click for details">
       <i class="imgQ"></i>
     </a>
