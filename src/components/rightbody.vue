@@ -1,6 +1,6 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">Profile details please</span>
+    <span class="Opretprofil">Gaurav Pls Enter your Profile details please</span>
     <br />
     <span class="asap">It works quickly.</span>
 
@@ -11,7 +11,7 @@
     <br />
     <input class="details" type="password" placeholder=" New password" style="width: 377px;" />
 
-    <div class="dob">Date of Birth Hello this is updated profile.</div>
+    <div class="dob">Date of Birth</div>
     <a href title="click for details">
       <i class="imgQ"></i>
     </a>
