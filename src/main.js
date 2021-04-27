@@ -1,4 +1,4 @@
-/*
+
 import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
@@ -11,7 +11,7 @@ new Vue({
   store,
   render: h => h(App)
 }).$mount('#app')
-*/
+
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
