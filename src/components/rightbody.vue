@@ -1,6 +1,6 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">hi Gaurav Pls Enter your Profile details please</span>
+    <span class="Opretprofil">hii Gaurav Pls Enter your Profile details please</span>
     <br />
     <span class="asap">It works quickly.</span>
 
