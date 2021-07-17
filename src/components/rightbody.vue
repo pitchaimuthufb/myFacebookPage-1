@@ -1,8 +1,8 @@
 <template>
   <div class="right">
-    <span class="Opretprofil">g Enter Profile details please :-</span>
+    <span class="Opretprofil">Enter Profile details please test :-</span>
     <br />
-    <span class="asap">It works quickly.</span>
+	 <span class="asap">It works quickly.</span>
 
     <input class="details" type="text" placeholder=" Firstname" style="width: 180px;" />
     <input class="details" type="text" placeholder=" Lastname" style="width: 180px;" />
