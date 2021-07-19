@@ -1,7 +1,7 @@
 
 <template>
   <div class="right">
-	    <span class="Opretprofil">Enter Profile details please test 02 :-</span>
+	    <span class="Opretprofil">01 Enter Profile details please test 02 :-</span>
     <br />
 	 <span class="asap">It works quickly.</span>
 
