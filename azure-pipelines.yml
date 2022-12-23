@@ -18,5 +18,4 @@ steps:
 - script: |
     npm install
     npm build
-    gulp default --gulpfile gulpfile.js
   displayName: 'npm install and run gulp'
